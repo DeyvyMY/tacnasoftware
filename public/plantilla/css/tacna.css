@@ -1,0 +1,16 @@
+body {
+  background-image: url('https://elcomercio.pe/resizer/DaJCdiEX_9SExn49aK2An_BbWE8=/1200x675/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/PUDJ35QKEBF3JLO6KZZDBN4ECU.jpg'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ruta de tu imagen */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: rgba(0, 0, 0, 0.9); /* Cambia el último valor (0.5) para ajustar la opacidad */
+}
+
+.btn-tacna {
+  background-color: #FFA834; /* Cambia #ff0000 por el color deseado */
+  color: #ffffff; /* Cambia #ffffff por el color del texto deseado */
+}
+.btn-primary:hover {
+  background-color: #FF0000; /* Cambia #ff0000 por el color de fondo deseado en hover */
+  color: #ffffff; /* Cambia #ffffff por el color del texto deseado en hover */
+}
